@@ -54,7 +54,7 @@ public class BasicApplicationTests extends AbstractIntegrationTest {
     
     @Test
     void contextLoads() {
-       String message = "Default Message Cambio 11";
+       String message = "Default Laravel a Spring Boot";
         assertNotNull(message);
     }
 
